@@ -1,0 +1,16 @@
+{
+  "pets": [
+    {
+      "name": "pet1",
+      "image": "x"
+    },
+    {
+      "name": "pet2",
+      "image": "y"
+    },
+    {
+      "name": "pet1",
+      "image": "z"
+    }
+  ]
+}
